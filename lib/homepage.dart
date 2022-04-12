@@ -1,12 +1,13 @@
-import 'package:bernardo/components/sobre/Nome_Container.dart';
 import 'package:bernardo/drawer.dart';
-import 'package:bernardo/pages/design_page.dart';
+import 'package:bernardo/pages/designpage/design_page.dart';
 
-import 'package:bernardo/pages/dev_page.dart';
 import 'package:bernardo/pages/form_page.dart';
 
+import 'package:bernardo/pages/sobre.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter_native_splash/flutter_native_splash.dart';
+
+import 'dev_page.dart';
 
 enum PopupMenuPages { antartica_page }
 
@@ -112,7 +113,7 @@ class _HomePageState extends State<HomePage> {
                           Expanded(
                             child: TabBarView(
                               children: <Widget>[
-                                NomeContainer(),
+                                SobrePage(),
                                 DevPage(),
                                 DesignPage(),
                                 FormPage()
@@ -122,7 +123,7 @@ class _HomePageState extends State<HomePage> {
                         ])),
                   ),
                   Positioned(
-                    bottom: 420,
+                    bottom: mediaQuery.size.height * 0.66,
                     child: Center(
                       child: CircleAvatar(
                         radius: 65,

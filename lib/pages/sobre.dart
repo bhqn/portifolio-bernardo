@@ -6,12 +6,12 @@ import 'package:font_awesome_flutter/font_awesome_flutter.dart';
 
 import 'package:url_launcher/url_launcher.dart';
 
-class NomeContainer extends StatefulWidget {
+class SobrePage extends StatefulWidget {
   @override
-  State<NomeContainer> createState() => _NomeContainerState();
+  State<SobrePage> createState() => _SobrePageState();
 }
 
-class _NomeContainerState extends State<NomeContainer> {
+class _SobrePageState extends State<SobrePage> {
   void _openDialog(ctx) {
     showCupertinoDialog(
         context: ctx,
