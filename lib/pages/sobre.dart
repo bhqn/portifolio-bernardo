@@ -79,7 +79,48 @@ class _SobrePageState extends State<SobrePage> {
                   ),
                 ),
               ),
-              SizedBox(height: 25),
+              SizedBox(height: 15),
+              Text(
+                'Skills',
+                style: TextStyle(
+                  color: Colors.black87,
+                  fontWeight: FontWeight.w200,
+                  fontSize: 25,
+                ),
+              ),
+              SizedBox(height: 15),
+              TabBar(
+                indicatorColor: Colors.blueGrey,
+                padding: EdgeInsets.symmetric(horizontal: 13),
+                tabs: [
+                  Tab(
+                    child: Text(
+                      'Desenvolvimento',
+                      style: TextStyle(
+                        color: Colors.black87,
+                        fontWeight: FontWeight.w300,
+                        fontSize: 15,
+                      ),
+                    ),
+                  ),
+                  Tab(
+                    child: Text(
+                      'Designer',
+                      style: TextStyle(
+                        color: Colors.black87,
+                        fontWeight: FontWeight.w300,
+                        fontSize: 15,
+                      ),
+                    ),
+                  ),
+                ],
+              ),
+              SizedBox(
+                height: 300,
+                child: TabBarView(
+                    children: <Widget>[DevChartsPage(), DesChartsPage()]),
+              ),
+              SizedBox(height: 15),
               Text(
                 'Dados Pessoais',
                 style: TextStyle(
@@ -333,47 +374,6 @@ class _SobrePageState extends State<SobrePage> {
                 indent: 15,
                 endIndent: 15,
                 color: Colors.black26,
-              ),
-              SizedBox(height: 15),
-              Text(
-                'Skills',
-                style: TextStyle(
-                  color: Colors.black87,
-                  fontWeight: FontWeight.w200,
-                  fontSize: 25,
-                ),
-              ),
-              SizedBox(height: 15),
-              TabBar(
-                indicatorColor: Colors.blueGrey,
-                padding: EdgeInsets.symmetric(horizontal: 13),
-                tabs: [
-                  Tab(
-                    child: Text(
-                      'Desenvolvimento',
-                      style: TextStyle(
-                        color: Colors.black87,
-                        fontWeight: FontWeight.w300,
-                        fontSize: 15,
-                      ),
-                    ),
-                  ),
-                  Tab(
-                    child: Text(
-                      'Designer',
-                      style: TextStyle(
-                        color: Colors.black87,
-                        fontWeight: FontWeight.w300,
-                        fontSize: 15,
-                      ),
-                    ),
-                  ),
-                ],
-              ),
-              SizedBox(
-                height: 300,
-                child: TabBarView(
-                    children: <Widget>[DevChartsPage(), DesChartsPage()]),
               ),
             ],
           ),
