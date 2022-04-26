@@ -23,7 +23,7 @@
 <h2>📱 Preview</h2>
 
    <p align="center">
-      <img src=".github/raw/giftela.gif" width="400" alt="App Filmes Demonstração">
+      <img src="raw/giftela.gif" width="400" alt="Demonstração portifólio">
    </p>
 
 ---
