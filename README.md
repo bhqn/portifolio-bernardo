@@ -1,6 +1,6 @@
 # Portifolio Bernardo
 <p align="center">
-    <img src="model/images/logoo.png" width="300" alt="Logo App Filmes"/>
+    <img src="model/images/logoo.png" width="300" alt="Logo"/>
 </p>
 
 
