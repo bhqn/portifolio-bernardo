@@ -23,7 +23,7 @@
 <h2>📱 Preview</h2>
 
    <p align="center">
-      <img src=".github/App-Filmes-Demo.gif" width="400" alt="App Filmes Demonstração">
+      <img src=".github/raw/gif tela.gif" width="400" alt="App Filmes Demonstração">
    </p>
 
 ---
