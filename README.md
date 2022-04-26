@@ -121,9 +121,9 @@
 ---
 
    <div align="center">
- <p align="center">
-      <img src="https://cdn.icon-icons.com/icons2/2428/PNG/512/linkedin_black_logo_icon_147114.png" width="100" alt="Demonstração portifólio">
-   </p>
+ <a align="center" href="https://www.linkedin.com/in/bernardo-quintanilha-0baa84a4/">
+      <img src="https://cdn.icon-icons.com/icons2/2428/PNG/512/linkedin_black_logo_icon_147114.png" width="100" alt="LinkedIn">
+   </a>
 
   
 
