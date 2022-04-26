@@ -3,17 +3,23 @@
     <img src="model/images/logoo.png" width="300" alt="Logo App Filmes"/>
 </p>
 
+
+<h2>Tópicos 📋</h2>
+
+   <p>
+
+   - [📖 Sobre](#-sobre)
+   - [📱 Preview](#-preview)
+   - [📦 Assets](#-assets)
+   - [🛠️ Funcionalidades e Tecnologias Estudadas](#%EF%B8%8F-funcionalidades-e-tecnologias-estudadas)
+   - [🤯 Desafios e Aprendizados ao longo do caminho](#-desafios-e-aprendizados-ao-longo-do-caminho)
+   - [🤔 Como usar](#-como-usar)
+   - [💪 Como contribuir](#-como-contribuir)
+   - [📝 Licença](#-licença)
+
+   </p>
+
+
 # Portifolio Bernardo
 <p align = "center"> Portifólio pessoal desenvolvido em Flutter / Dart com finalidade de estudar o framework.</p>
 
-  * [Sobre](#sobre)
-  * [Tabela de Conteúdo](#tabela-de-conteudo)
-  * [Instalação](#instalação)
-  * [Como usar](#como-usar)
-    * [Pré Requisitos](#como-usar)
-    * [Local files](#local-files)
-    * [Remote files](#remote-files)
-    * [Multilpe files](#multiple-files)
-    * [Combo](#combo)
-  * [Tests](#testes)
-  * [Tecnologias](#Tecnologias)
