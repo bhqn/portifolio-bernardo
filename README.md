@@ -114,7 +114,7 @@
  - Agradecimentos Especiais:
       - **[@Felipe Sales](https://www.linkedin.com/in/felipecastrosales/)** Por me Auxiliar com READ.ME
       - **[@Rodrigo Rahman](https://br.linkedin.com/in/rodrigo-rahman)** Por disponibilizar aulas INCRÍVEIS, Sem elas eu não teria o mesmo resultado.
-      - **[Academia do Flutter](https://hotmart.com/product/academia-do-flutter/O24924684W)** Por proporcionar um ambiente amigavel, com usuários super solícitos sempre ajudando iniciantes!
+      - **[Academia do Flutter](https://hotmart.com/product/academia-do-flutter/O24924684W)** Por proporcionar um ambiente amigável, com usuários super solícitos sempre ajudando iniciantes!
    
    
 
