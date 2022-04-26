@@ -38,7 +38,7 @@
 
 
 - Pasta <a href="https://github.com/bhqn/portifolio-bernardo/tree/FixForBug/model/images">**`/assets`**</a>
-- JSON  <a href="https://github.com/bhqn/portifolio-bernardo/tree/FixForBug/lib/pages/designpage">`** `/json`**</a>
+- JSON  <a href="https://github.com/bhqn/portifolio-bernardo/tree/FixForBug/lib/pages/designpage">**`/json`**</a>
 
 
 ---   
