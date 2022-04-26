@@ -107,9 +107,9 @@
 
    > Esse projeto foi desenvolvido por **[@Bernardo_quintanilha](https://www.linkedin.com/in/bernardo-quintanilha-0baa84a4/)**, 
    
-   <p> Gostaria de agradecer a todas as pessoas da comunidade Academia do Flutter , sem suas  dicas esse projeto não seria viavel,
+   <p> Gostaria de agradecer a todas as pessoas da comunidade Academia do Flutter , sem suas  dicas esse projeto não seria viavel, </Strong> MUITO OBRIGADO MESMO!</Strong> </p>
     
-    </Strong> MUITO OBRIGADO MESMO!</Strong> </p>
+    
    
  - Agradecimentos Especiais:
       - **[@Felipe Sales](https://www.linkedin.com/in/felipecastrosales/)** Por me Auxiliar com READ.ME
