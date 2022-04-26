@@ -14,10 +14,17 @@
    - [🛠️ Funcionalidades e Tecnologias Estudadas](#%EF%B8%8F-funcionalidades-e-tecnologias-estudadas)
    - [🤯 Desafios e Aprendizados ao longo do caminho](#-desafios-e-aprendizados-ao-longo-do-caminho)
    - [🤔 Como usar](#-como-usar)
-   - [💪 Como contribuir](#-como-contribuir)
    - [📝 Licença](#-licença)
 
    </p>
+   
+   <h2>📖 Sobre</h2>
+
+<p>
+  Projeto de Portifólio pessoal desenvolvido em Flutter/Dart visando aprimorar conhecimentos de front-end, utilização de package e consumo de arquivo em Json.
+</p>
+
+---
 
 
 <h2>📱 Preview</h2>
@@ -32,12 +39,25 @@
 
 
 - Pasta <a href="https://github.com/bhqn/portifolio-bernardo/tree/FixForBug/model/images">**`/assets`**</a>
-- JSON da <a href="https://drive.google.com/file/d/1UH-FWWrK0jV3TSYOGjh3a7g-IZRjzNpU/view?usp=sharing">**`Postman Collection`**</a>
-> * Caso queira consultar **todos os assets do projeto**, clique <a href="https://drive.google.com/file/d/1UH-FWWrK0jV3TSYOGjh3a7g-IZRjzNpU/view?usp=sharing">nesse link</a>. 
+- JSON  <a href="https://github.com/bhqn/portifolio-bernardo/tree/FixForBug/lib/pages/designpage>`**</a>
+
 
 ---   
 
 <h2>🛠️ Funcionalidades e Tecnologias Estudadas</h2>
+    
+<h3> Pakages Utilizados </h3>
+    
+  cupertino_icons: ^1.0.2
+  url_launcher: ^6.0.20
+  http: ^0.13.4
+  syncfusion_flutter_charts: ^20.1.47+1
+  hex: ^0.2.0
+  hexcolor: ^2.0.6
+  font_awesome_flutter: ^10.1.0
+  flutter_spinkit: ^5.1.0
+    
+    
 
 - Consulta da API do The Movie Database usando o package Dio
 - GetX como Gerenciamento de Estado
@@ -49,19 +69,14 @@
   - Busca de filmes via pesquisa
   - Busca de filmes com base na lista de Categoria com os gêneros de filmes
 - Adicionar filmes aos favoritos 
-- Firebase
-  - Core
-  - Auth | Sign-in
-  - RemoteConfig
-  - Cloud Firestore
+
 - Telas: 
-  - Login (onde possui o fluxo de login)
   - Splash (tela inicial do app para transição)
   - Home (tela principal do app e que serve de fluxo inicial para as demais telas descritas abaixo)
-  - Movies (parte da view onde nós da a porta para a escolha da lista de filmes)
-  - MovieDetail (detalhe da página de Movie, onde temos mais componentes descritivos a respeito do filme)
-  - Favorites (onde fica a lista de filmes que foram adicionados aos favoritos)
-- E muuuitos outros aprendizados incríveis. 🔥
+  - Sobre (parte da view onde nós da a porta para a escolha da lista de filmes)
+  - Dev (detalhe da página de Movie, onde temos mais componentes descritivos a respeito do filme)
+  - Design (onde fica a lista de filmes que foram adicionados aos favoritos)
+  - Sobre ()
    </p>
 
 ---
@@ -92,23 +107,6 @@
 
    - Execute:
    $ flutter run
-   ```
-
----
-
-<h2>💪 Como contribuir</h2>
-
-   ```
-   - Fork o projeto 
-
-   - Cria uma nova branch com suas mudanças:
-   $ git checkout -b my-feature
-
-   - Salve suas mudanças e faça uma mensagem de commit message sobre suas alterações:
-   $ git commit -m "feature: My new feature"
-
-   - Envie suas mudanças:
-   $ git push origin my-feature
    ```
 
 ---
