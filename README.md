@@ -122,7 +122,8 @@
 
    <div align="center">
 
-   [![Linkedin Badge](https://img.shields.io/badge/-Felipe%20Sales-292929?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/bernardo-quintanilha-0baa84a4/)](https://www.linkedin.com/in/bernardo-quintanilha-0baa84a4/)
+   <a href="https://www.instagram.com/tropico.criativo/" class="icon ion-social-instagram"></a>
+   <a href="https://www.instagram.com/tropico.criativo/" class="icon ion-social-instagram"></a>
 
    </div>
 
