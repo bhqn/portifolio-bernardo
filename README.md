@@ -83,7 +83,7 @@
    https://flutter.dev/docs/get-started/install
 
    - Clone o repositório:
-   $ git clone https://github.com/felipecastrosales/app_filmes app_filmes
+   $ git clone https://github.com/bhqn/portifolio-bernardo portifolio-bernardo
 
    - Entre no diretório:
    $ cd app_filmes
@@ -105,14 +105,24 @@
 
 ---
 
-   >Esse projeto foi desenvolvido com ❤️ por **[@Felipe Sales](https://www.linkedin.com/in/felipecastrosales/)**, com o instrutor **[@Rodrigo Rahman](https://br.linkedin.com/in/rodrigo-rahman)**, no evento #DartWeek da **[Academia do Flutter](https://hotmart.com/product/academia-do-flutter/O24924684W)**.<br>
-   Se isso te ajudou, dê uma ⭐, e contribua, isso irá me ajudar também 😉
+   >Esse projeto foi desenvolvido por **[@Bernardo_quintanilha](https://www.linkedin.com/in/bernardo-quintanilha-0baa84a4/)**, 
+   
+    Gostaria de agradecer a todas a pessoas da comunidade <strong> Academia do Flutter </strong>, sem suas  dicas esse projeto não seria viavel,
+    
+    </Strong> MUITO OBRIGADO MESMO!</Strong>
+   
+   Agradecimentos:
+   **[@Felipe Sales](https://www.linkedin.com/in/felipecastrosales/)** Por me Auxiliar com READ.ME
+   **[@Rodrigo Rahman](https://br.linkedin.com/in/rodrigo-rahman)** Por disponibilizar aulas INCRÍVEIS, Sem elas eu não teria o mesmo resultado.
+   **[Academia do Flutter](https://hotmart.com/product/academia-do-flutter/O24924684W)** Por proporcionar um ambiente amigavel, com usuários super solícitos sempre     ajudando iniciantes!
+   
+   
 
 ---
 
    <div align="center">
 
-   [![Linkedin Badge](https://img.shields.io/badge/-Felipe%20Sales-292929?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/felipecastrosales/)](https://www.linkedin.com/in/felipecastrosales/)
+   [![Linkedin Badge](https://img.shields.io/badge/-Felipe%20Sales-292929?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/bernardo-quintanilha-0baa84a4/)](https://www.linkedin.com/in/bernardo-quintanilha-0baa84a4/)
 
    </div>
 
