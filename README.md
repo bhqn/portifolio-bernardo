@@ -20,7 +20,7 @@
    <h2>📖 Sobre</h2>
 
 <p>
-  Projeto de Portifólio pessoal desenvolvido em Flutter/Dart visando aprimorar conhecimentos de front-end, utilização de package e consumo de arquivo em JSON.
+  Projeto de portifólio pessoal desenvolvido em Flutter/Dart visando aprimorar conhecimentos de front-end, utilização de package e consumo de arquivo em JSON.
 </p>
 
 ---
@@ -58,20 +58,20 @@
     
 
 - Funcionalidades
-    - Menu ("Drawer") com Principais links e informações de contato
-    - Disponibilizar Links de Projetos antigos
-    - Disponibilzar Artes produzidas a partir de um Arquivo JSON em um GridView (ex: Layout do Intagram )
-    - utilização do mediaQuery.size para Responsividade do layout
+    - Menu ("Drawer") com principais links e informações de contato
+    - Disponibilizar links de projetos antigos
+    - Disponibilzar artes produzidas a partir de um arquivo JSON em um GridView (ex: Layout do Intagram )
+    - utilização do mediaQuery.size para responsividade do layout
     - Themes
-    - Formulário integrado com E-mail do Usuário para contato
+    - Formulário integrado com E-mail do usuário para contato
 
 - Telas: 
-    - Splash (tela inicial do app para transição)
-    - Home (tela principal do app e que serve de fluxo inicial para as demais telas descritas abaixo)
-    - Sobre (View disponibilizando informações como Dados Pessoais, Cursos e Skills utilizando <strong>fusion_flutter_charts</strong> para construção de Gráficos)
-    - Dev (View Disponibilizando links de projetos antigos)
-    - Design (View Disponibilizando artes aos moldes do Instagram)
-    - Contato (Formulário integrado com Email do usuario para envio de mensagens) 
+    - Splash (Tela inicial do app para transição)
+    - Home (Tela principal do app e que serve de fluxo inicial para as demais telas descritas abaixo)
+    - Sobre (View disponibilizando informações como dados pessoais, cursos e skills utilizando <strong>fusion_flutter_charts</strong> para construção de gráficos)
+    - Dev (View disponibilizando links de projetos antigos)
+    - Design (View disponibilizando artes aos moldes do Instagram)
+    - Contato (Formulário integrado com E-mail do usuário para envio de mensagens) 
    </p>
 
 ---
@@ -83,7 +83,7 @@
    https://flutter.dev/docs/get-started/install
 
    - Clone o repositório:
-   $ git clone https://github.com/bhqn/portifolio-bernardo/tree/FixForBug portifolio-bernardo
+   $ git clone https://github.com/bhqn/portifolio-bernardo portifolio-bernardo
 
    - Entre no diretório:
    $ cd portifolio-bernardo
@@ -107,7 +107,7 @@
 
    > Esse projeto foi desenvolvido por **[@Bernardo_quintanilha](https://www.linkedin.com/in/bernardo-quintanilha-0baa84a4/)**, 
    
-   <p> Gostaria de agradecer a todas as pessoas da comunidade Academia do Flutter , sem suas  dicas esse projeto não seria viavel, </Strong> MUITO OBRIGADO MESMO!</Strong> </p>
+   <p> Gostaria de agradecer a todas as pessoas da comunidade Academia do Flutter, sem suas dicas esse projeto não seria viável,</Strong> MUITO OBRIGADO MESMO!</Strong> </p>
     
     
    
