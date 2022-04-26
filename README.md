@@ -39,7 +39,7 @@
 
 
 - Pasta <a href="https://github.com/bhqn/portifolio-bernardo/tree/FixForBug/model/images">**`/assets`**</a>
-- JSON  <a href="https://github.com/bhqn/portifolio-bernardo/tree/FixForBug/lib/pages/designpage>`**</a>
+- JSON  <a href="https://github.com/bhqn/portifolio-bernardo/tree/FixForBug/lib/pages/designpage>`** `/json`**</a>
 
 
 ---   
@@ -48,14 +48,14 @@
     
 <h3> Pakages Utilizados </h3>
     
-  cupertino_icons: ^1.0.2
-  url_launcher: ^6.0.20
-  http: ^0.13.4
-  syncfusion_flutter_charts: ^20.1.47+1
-  hex: ^0.2.0
-  hexcolor: ^2.0.6
-  font_awesome_flutter: ^10.1.0
-  flutter_spinkit: ^5.1.0
+ - cupertino_icons: ^1.0.2 
+ - url_launcher: ^6.0.20
+ - http: ^0.13.4
+ - syncfusion_flutter_charts: ^20.1.47+1
+ - hex: ^0.2.0
+ - hexcolor: ^2.0.6
+ - font_awesome_flutter: ^10.1.0
+ - flutter_spinkit: ^5.1.0
     
     
 
