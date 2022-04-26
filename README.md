@@ -83,7 +83,7 @@
    https://flutter.dev/docs/get-started/install
 
    - Clone o repositório:
-   $ git clone https://github.com/bhqn/portifolio-bernardo portifolio-bernardo
+   $ git clone https://github.com/bhqn/portifolio-bernardo/tree/FixForBug portifolio-bernardo
 
    - Entre no diretório:
    $ cd portifolio-bernardo
