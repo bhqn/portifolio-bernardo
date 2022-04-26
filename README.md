@@ -86,7 +86,7 @@
    $ git clone https://github.com/bhqn/portifolio-bernardo portifolio-bernardo
 
    - Entre no diretório:
-   $ cd app_filmes
+   $ cd portifolio-bernardo
 
    - Instale as dependências:
    $ flutter pub get
