@@ -299,7 +299,7 @@ class _SobrePageState extends State<SobrePage> {
                   title: Padding(
                     padding: const EdgeInsets.symmetric(vertical: 5.0),
                     child: Text(
-                      'Designer Gráfico (concluido)',
+                      'Engenharia da computação',
                       style: TextStyle(
                         color: Colors.black87,
                         fontWeight: FontWeight.w300,

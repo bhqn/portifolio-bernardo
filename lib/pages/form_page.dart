@@ -96,7 +96,7 @@ class _FormPageState extends State<FormPage> {
                   ),
                 ),
               ),
-              SizedBox(height: 25),
+              SizedBox(height: 20),
               Column(children: [
                 buildTextField(
                     title: 'Nome', controller: controllerName, maxLines: 1),
@@ -114,10 +114,10 @@ class _FormPageState extends State<FormPage> {
                     maxLines: 1),
                 SizedBox(height: 15),
                 buildTextField(
-                    title: 'Menssagem',
+                    title: 'Mensagem',
                     controller: controllerMessage,
-                    maxLines: 8),
-                const SizedBox(height: 32),
+                    maxLines: 5),
+                const SizedBox(height: 20),
                 ElevatedButton(
                   style: ElevatedButton.styleFrom(
                     primary: Colors.blueGrey,
@@ -133,7 +133,7 @@ class _FormPageState extends State<FormPage> {
                     message: controllerMessage.text,
                   ),
                 ),
-                const SizedBox(height: 32),
+                const SizedBox(height: 12),
               ])
             ]),
           ),
