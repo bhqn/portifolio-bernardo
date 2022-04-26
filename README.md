@@ -20,7 +20,7 @@
    <h2>📖 Sobre</h2>
 
 <p>
-  Projeto de Portifólio pessoal desenvolvido em Flutter/Dart visando aprimorar conhecimentos de front-end, utilização de package e consumo de arquivo em Json.
+  Projeto de Portifólio pessoal desenvolvido em Flutter/Dart visando aprimorar conhecimentos de front-end, utilização de package e consumo de arquivo em JSON.
 </p>
 
 ---
