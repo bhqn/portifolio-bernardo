@@ -58,24 +58,21 @@
     
     
 
-- Consulta da API do The Movie Database usando o package Dio
-- GetX como Gerenciamento de Estado
-- Postman Collections: API de Desenvolvimento e Testes
-- Fluxo de Login e Logout com a aplicação
-- Navigator 2.0
+- Funcionalidades
+- Menu ("Drawer") com Principais links e informações de contato
+- Disponibilizar Links de Projetos antigos
+- Disponibilzar Artes produzidas a partir de um Arquivo JSON em um GridView (ex: Layout do Intagram )
+- utilização do mediaQuery.size para Responsividade do layout
 - Themes
-- Search
-  - Busca de filmes via pesquisa
-  - Busca de filmes com base na lista de Categoria com os gêneros de filmes
-- Adicionar filmes aos favoritos 
+- Formulário integrado com E-mail do Usuário para contato
 
 - Telas: 
   - Splash (tela inicial do app para transição)
   - Home (tela principal do app e que serve de fluxo inicial para as demais telas descritas abaixo)
-  - Sobre (parte da view onde nós da a porta para a escolha da lista de filmes)
-  - Dev (detalhe da página de Movie, onde temos mais componentes descritivos a respeito do filme)
-  - Design (onde fica a lista de filmes que foram adicionados aos favoritos)
-  - Sobre ()
+  - Sobre (View disponibilizando informações como Dados Pessoais, Cursos e Skills utilizando syncfusion_flutter_charts para construção de Gráficos)
+  - Dev (View Disponibilizando links de projetos antigos)
+  - Design (View Disponibilizando artes aos moldes do Instagram)
+  - Contato (Formulário integrado com Email do usuario para envio de mensagens) 
    </p>
 
 ---
