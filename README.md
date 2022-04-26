@@ -105,9 +105,9 @@
 
 ---
 
-   <p>Esse projeto foi desenvolvido por **[@Bernardo_quintanilha](https://www.linkedin.com/in/bernardo-quintanilha-0baa84a4/)**, 
+   > Esse projeto foi desenvolvido por **[@Bernardo_quintanilha](https://www.linkedin.com/in/bernardo-quintanilha-0baa84a4/)**, 
    
-    Gostaria de agradecer a todas a pessoas da comunidade <strong> Academia do Flutter </strong>, sem suas  dicas esse projeto não seria viavel,
+    Gostaria de agradecer a todas a pessoas da comunidade  Academia do Flutter , sem suas  dicas esse projeto não seria viavel,
     
     </Strong> MUITO OBRIGADO MESMO!</Strong> </p>
    
