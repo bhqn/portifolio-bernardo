@@ -12,7 +12,6 @@
    - [📱 Preview](#-preview)
    - [📦 Assets](#-assets)
    - [🛠️ Funcionalidades e Tecnologias Estudadas](#%EF%B8%8F-funcionalidades-e-tecnologias-estudadas)
-   - [🤯 Desafios e Aprendizados ao longo do caminho](#-desafios-e-aprendizados-ao-longo-do-caminho)
    - [🤔 Como usar](#-como-usar)
    - [📝 Licença](#-licença)
 
@@ -59,29 +58,20 @@
     
 
 - Funcionalidades
-- Menu ("Drawer") com Principais links e informações de contato
-- Disponibilizar Links de Projetos antigos
-- Disponibilzar Artes produzidas a partir de um Arquivo JSON em um GridView (ex: Layout do Intagram )
-- utilização do mediaQuery.size para Responsividade do layout
-- Themes
-- Formulário integrado com E-mail do Usuário para contato
+    - Menu ("Drawer") com Principais links e informações de contato
+    - Disponibilizar Links de Projetos antigos
+    - Disponibilzar Artes produzidas a partir de um Arquivo JSON em um GridView (ex: Layout do Intagram )
+    - utilização do mediaQuery.size para Responsividade do layout
+    - Themes
+    - Formulário integrado com E-mail do Usuário para contato
 
 - Telas: 
-  - Splash (tela inicial do app para transição)
-  - Home (tela principal do app e que serve de fluxo inicial para as demais telas descritas abaixo)
-  - Sobre (View disponibilizando informações como Dados Pessoais, Cursos e Skills utilizando syncfusion_flutter_charts para construção de Gráficos)
-  - Dev (View Disponibilizando links de projetos antigos)
-  - Design (View Disponibilizando artes aos moldes do Instagram)
-  - Contato (Formulário integrado com Email do usuario para envio de mensagens) 
-   </p>
-
----
-
-<h2>🤯 Desafios e Aprendizados ao longo do caminho</h2>
-
-   <p>
-   Essa foi uma semana muito corrida, cheia de imprevistos e acontecimentos que me atrasaram um pouco, além de alguns errinhos bobos que sempre custam um certo tempo para resolver. Mas, apesar disso, eu consegui aprender pra caramba mais a fundo do Dart e Flutter, onde apliquei conhecimentos de mercado e atualizados na prática, com um projeto exclusivo.<br>
-   Foi muito bom ter participado desse evento, e espero estar e conseguir estar presente nos próximos que virem, pois com certeza serão de grande valor e com uma qualidade cada vez maior. O Rahman é um instrutor incrível e quer sempre ser melhor.<br>
+    - Splash (tela inicial do app para transição)
+    - Home (tela principal do app e que serve de fluxo inicial para as demais telas descritas abaixo)
+    - Sobre (View disponibilizando informações como Dados Pessoais, Cursos e Skills utilizando syncfusion_flutter_charts para construção de Gráficos)
+    - Dev (View Disponibilizando links de projetos antigos)
+    - Design (View Disponibilizando artes aos moldes do Instagram)
+    - Contato (Formulário integrado com Email do usuario para envio de mensagens) 
    </p>
 
 ---
