@@ -30,8 +30,8 @@
 
 <h2>📦 Assets</h2>
 
-- UI Design criado para o evento: <a href="https://www.figma.com/file/uxIIdBQowPYx5KS9nGHS4A/Filmes">**App Filmes 📱**</a>
-- Pasta <a href="https://drive.google.com/file/d/1Bv1YnYTVx08qFnRuH2Fgtyi1e7mIkJ5t/view?usp=sharing">**`/assets`**</a>
+
+- Pasta <a href="https://github.com/bhqn/portifolio-bernardo/tree/FixForBug/model/images">**`/assets`**</a>
 - JSON da <a href="https://drive.google.com/file/d/1UH-FWWrK0jV3TSYOGjh3a7g-IZRjzNpU/view?usp=sharing">**`Postman Collection`**</a>
 > * Caso queira consultar **todos os assets do projeto**, clique <a href="https://drive.google.com/file/d/1UH-FWWrK0jV3TSYOGjh3a7g-IZRjzNpU/view?usp=sharing">nesse link</a>. 
 
