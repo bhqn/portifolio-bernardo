@@ -105,11 +105,11 @@
 
 ---
 
-   >Esse projeto foi desenvolvido por **[@Bernardo_quintanilha](https://www.linkedin.com/in/bernardo-quintanilha-0baa84a4/)**, 
+   <p>Esse projeto foi desenvolvido por **[@Bernardo_quintanilha](https://www.linkedin.com/in/bernardo-quintanilha-0baa84a4/)**, 
    
     Gostaria de agradecer a todas a pessoas da comunidade <strong> Academia do Flutter </strong>, sem suas  dicas esse projeto não seria viavel,
     
-    </Strong> MUITO OBRIGADO MESMO!</Strong>
+    </Strong> MUITO OBRIGADO MESMO!</Strong> </p>
    
  - Agradecimentos Especiais:
       - **[@Felipe Sales](https://www.linkedin.com/in/felipecastrosales/)** Por me Auxiliar com READ.ME
