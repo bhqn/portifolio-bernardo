@@ -38,7 +38,7 @@
 
 
 - Pasta <a href="https://github.com/bhqn/portifolio-bernardo/tree/FixForBug/model/images">**`/assets`**</a>
-- JSON  <a href="https://github.com/bhqn/portifolio-bernardo/tree/FixForBug/lib/pages/designpage>`** `/json`**</a>
+- JSON  <a href="https://github.com/bhqn/portifolio-bernardo/tree/FixForBug/lib/pages/designpage">`** `/json`**</a>
 
 
 ---   
@@ -68,7 +68,7 @@
 - Telas: 
     - Splash (tela inicial do app para transição)
     - Home (tela principal do app e que serve de fluxo inicial para as demais telas descritas abaixo)
-    - Sobre (View disponibilizando informações como Dados Pessoais, Cursos e Skills utilizando syncfusion_flutter_charts para construção de Gráficos)
+    - Sobre (View disponibilizando informações como Dados Pessoais, Cursos e Skills utilizando <strong>fusion_flutter_charts</strong> para construção de Gráficos)
     - Dev (View Disponibilizando links de projetos antigos)
     - Design (View Disponibilizando artes aos moldes do Instagram)
     - Contato (Formulário integrado com Email do usuario para envio de mensagens) 
